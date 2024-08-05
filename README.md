@@ -1,2 +1,2 @@
 # DAZI
-The web/app development of a social platform aims to find partner in a trip
+A spatial application for users to find partners during a trip 
